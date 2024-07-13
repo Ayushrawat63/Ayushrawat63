@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush rawat</h1>
-<h3 align="center">A Detail-oriented, organized, and meticulous employee. Works at a fast pace to meet tight deadlines. Enthusiastic team player ready to contribute to company success. passionate frontend developer from India</h3>
+<h3 align="center">A Detail-oriented, organized, and meticulous employee. Works at a fast pace to meet tight deadlines. Enthusiastic team player ready to contribute to company success and a passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on [BingeINFO](https://github.com/Ayushrawat63/BingeINFO.git)
 
