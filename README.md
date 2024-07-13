@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1s_CkOiOTmIUcjSFVtCXapi262D8YhMdJsTXdn44fFMU/edit?usp=sharing](https://docs.google.com/document/d/1s_CkOiOTmIUcjSFVtCXapi262D8YhMdJsTXdn44fFMU/edit?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
