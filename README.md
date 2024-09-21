@@ -1,19 +1,60 @@
-<h1 align="center">Hi 👋, I'm Ayush rawat</h1>
-<h3 align="center">A Detail-oriented, organized, and meticulous employee. Works at a fast pace to meet tight deadlines. Enthusiastic team player ready to contribute to company success and a passionate frontend developer from India</h3>
+# Hey there! I'm Ayush Rawat 👨‍💻
 
-- 🔭 I’m currently working on [BingeINFO](https://github.com/Ayushrawat63/BingeINFO.git)
+### 🚀 Full-Stack Developer in the Making | Passionate Coder & Tech Enthusiast
 
-- 🌱 I’m currently learning **MERN**
+I love turning code into creative, user-friendly web applications! Currently pursuing my **B.Tech in Computer Science**, I’ve developed a deep passion for coding and problem-solving. Whether it’s building sleek interfaces or designing powerful backends, I’m always up for a new challenge. 💡
 
-- 💬 Ask me about **react,redux,javascript,sql**
+---
 
-- 📫 How to reach me **ayushrawat9259@gmail.com**
+### 🛠️ My Tech Toolbox:
+#### Languages:
+![HTML Badge](https://img.shields.io/badge/Code-HTML-orange?style=flat-square&logo=html5) 
+![CSS Badge](https://img.shields.io/badge/Code-CSS-blue?style=flat-square&logo=css3) 
+![JavaScript Badge](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=javascript) 
+![C++ Badge](https://img.shields.io/badge/Code-C++-blue?style=flat-square&logo=cplusplus)
+![Java Badge](https://img.shields.io/badge/Code-Java-yellow?style=flat-square&logo=cplusplus)
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1s_CkOiOTmIUcjSFVtCXapi262D8YhMdJsTXdn44fFMU/edit?usp=sharing](https://docs.google.com/document/d/1s_CkOiOTmIUcjSFVtCXapi262D8YhMdJsTXdn44fFMU/edit?usp=sharing)
+#### Frameworks & Libraries:
+![React Badge](https://img.shields.io/badge/Code-React-blue?style=flat-square&logo=react) 
+![Node.js Badge](https://img.shields.io/badge/Code-Node.js-green?style=flat-square&logo=nodedotjs) 
+![Express Badge](https://img.shields.io/badge/Code-Express-black?style=flat-square&logo=express) 
+![Tailwind Badge](https://img.shields.io/badge/Code-Tailwind-blue?style=flat-square&logo=tailwindcss)
+![Redux Badge](https://img.shields.io/badge/Code-Redux-purple?style=flat-square&logo=redux)
+
+#### Databases:
+![MySQL Badge](https://img.shields.io/badge/Database-MySQL-blue?style=flat-square&logo=mysql) 
+![MongoDB Badge](https://img.shields.io/badge/Database-MongoDB-green?style=flat-square&logo=mongodb)
+
+#### Tools & Platforms:
+![Git Badge](https://img.shields.io/badge/Tool-Git-orange?style=flat-square&logo=git) 
+![VS Code Badge](https://img.shields.io/badge/Tool-VS%20Code-blue?style=flat-square&logo=visualstudiocode) 
+![Figma Badge](https://img.shields.io/badge/Tool-Figma-purple?style=flat-square&logo=figma)
+![Postman Badge](https://img.shields.io/badge/Tool-Postman-orange?style=flat-square&logo=postman)
+
+#### Other Technologies:
+![Firebase Badge](https://img.shields.io/badge/Tech-Firebase-yellow?style=flat-square&logo=firebase) 
 
 
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+### 🌟 Featured Projects:
+#### [PoshCarrier](https://github.com/Ayushrawat63/poshCarrier.git) | Node.js, Express.js, MongoDB, EJS, Tailwind
+> Ever dreamt of an intuitive, smooth, and stylish carrier service?  
+With **PoshCarrier**, I built a full-stack web app using Node.js & Express.js that handles API requests like a pro! MongoDB ensures secure data storage, while **JWT** keeps things super secure. Bonus: a stunning interface thanks to EJS & Tailwind!
+
+#### [BingeINFO](https://github.com/Ayushrawat63/BingeINFO.git) | React.js, Tailwind, Firebase, Redux, API Integration
+> The ultimate movie and TV show discovery platform! 🎥  
+Leveraging the **TMDB API**, BingeINFO lets users create profiles and browse a massive library of movies and shows with real-time updates. Did I mention it’s multilingual? 🌍 
+
+#### [InstaFood](https://github.com/Ayushrawat63/InstaFOOD.git) | React.js, Tailwind, Redux, API Integration
+> Got cravings? 🍔 InstaFood is here!  
+Real-time food delivery with dynamic cart management and a killer UI to boot. Users can search for dishes, filter results, and place orders in seconds. React and Redux make the experience smooth and responsive.
+
+---
+
+### 🔗 Let’s Connect & Create!
+- **Email**: [ayushrawat9259@gmail.com](mailto:ayushrawat9259@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/ayushrawat0064](https://linkedin.com/in/ayushrawat0064)  
+- **GitHub**: [github.com/Ayushrawat63](https://github.com/Ayushrawat63)  
+
+Always open to collaborating on exciting projects, learning new tech, or just geeking out over code! 🚀
